@@ -1,0 +1,242 @@
+
+.style1{
+	height: 70px;
+	background-color:#222222;
+	opacity: 0.3;
+}
+.style2{
+	height: 370px;
+	background-color: #4D545E;
+	margin-top: 66px;
+}
+.logostyle{
+	
+	color: #fff;
+	margin-top: 10px;
+	text-align: left;
+}
+a {
+	text-decoration: none;
+	color: #fff;
+	
+}
+i{
+		font-size: 25px;
+	}
+
+i:hover{
+		color: #13b3e6;
+		transition-duration: .3s;
+	}
+.buttonstyle{
+	background-color: transparent;
+	border: 0px ;
+	border-right: 1px solid #fff;
+	color: #fff;
+
+
+
+}
+.links:hover{
+	text-decoration: none;
+	color: #13b3e6;
+		transition-duration: .3s;
+}
+.buttonstyle1{
+	background-color: transparent;
+	border: 0px ;
+	
+	color: #fff;}
+
+.heading{
+	color: #fff;
+	font-family:Amadeust Inline; 
+
+    margin-top: 86px;
+    margin-bottom: 0px;
+
+}
+.pra{
+  
+    margin-bottom: 1px;
+    margin-left: 148px;
+    color: #fff;
+    font-size: 20px;}
+
+  .ta{
+  	text-align: right;
+  	
+    margin-top: 88px;
+
+
+
+    }
+ .buttonrd2{
+
+    margin-top: 100px;
+    padding-top: 4px;
+
+    width: 239px;
+
+
+
+ }
+ .topbar{
+ 	background-color: #fff;
+ 	height: 500px;
+ 	margin-top: 45px;
+ 	background-image: url(image/cover.jpg);
+ 	background-repeat: no-repeat;
+ 	background-position: center;
+ 	background-size: cover;
+ 	
+ }
+.forms{
+background: rgb(121,124,117);
+background: linear-gradient(90deg, rgba(121,124,117,0.38139005602240894) 15%, rgba(209,221,226,0.0760679271708683) 64%);
+    margin-top: 84px;
+    margin-right: 0px;
+    padding-right: 30px;
+    height: 313px;
+    width: 337px !important;
+
+
+}
+
+.topbarin{
+	background-image: url(image/cover.jpg);
+ 	background-repeat: no-repeat;
+ 	background-position: center;
+ 	background-size: cover;
+ 	 
+ 	
+ 	
+ 	
+
+}
+.divb{
+	background: rgb(33,48,13);
+background: linear-gradient(90deg, rgba(33,48,13,0.21332282913165268) 20%, rgba(49,167,215,0.15449929971988796) 71%);
+
+    width: 519px;
+    margin-left: 289px;
+    height: 87px;
+    margin-top: 61px;
+    text-align: center;
+
+}
+
+.middiv{
+	margin-top: 50px;
+}
+
+
+.line{
+	padding: 0px;
+    margin-top: -40px;
+    border: 4px solid #dee1e2;
+}
+
+.style44{
+
+    padding-left: 0px;
+    padding-right: 0px;
+
+
+}
+.heading76{
+	text-align: center;
+}
+
+.headingline{
+	width: 90px;
+   margin:0px;
+   text-align: center;
+
+    margin-left: 522px;
+    border: 1px solid #05cb7c ;
+}
+
+.divjoin{
+	height: 480px;
+	background-color: gray;
+	background-image: url(image/cover3.jpg);
+    background-repeat: no-repeat;
+ 	background-position: center;
+ 	background-size: cover;
+ 	 
+}
+
+form {border: 3px solid #f1f1f1;}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.button3 {
+    background: rgb(98,167,5);
+background: linear-gradient(90deg, rgba(98,167,5,0.5186449579831933) 15%, rgba(5,203,124,0.4290091036414566) 88%);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.button3:hover {
+    opacity: 0.8;
+}
+
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background: rgb(235,85,10);
+background: linear-gradient(90deg, rgba(235,85,10,0.6727065826330532) 24%, rgba(203,5,39,0.4290091036414566) 90%);
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+img.avatar {
+    width: 40%;
+    border-radius: 50%;
+}
+
+.container {
+    padding: 16px;
+}
+
+span.psw {
+    float: right;
+    padding-top: 16px;
+    color: #fff;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+span.psw {
+       display: block;
+       float: none;
+}
+.cancelbtn {
+       width: 100%;
+}
+.ajs{
+  margin-top: 30px;
+  padding: 0px;
+}
+
+
+.b1{
+    background-color: red;
+}
+
+

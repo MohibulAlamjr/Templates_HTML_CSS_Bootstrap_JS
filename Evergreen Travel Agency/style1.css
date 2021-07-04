@@ -1,0 +1,278 @@
+.b1{
+	background-image: url(image/11.jpg);
+  height: 320px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left:px
+}
+
+
+.b2{
+	background-image: url(image/22.jpg);
+  height: 320px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left: 140px;
+}
+
+.b3{
+	background-image: url(image/33.jpg);
+  height: 320px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left: 140px
+}
+
+.b4{
+	background-image: url(image/44.jpg);
+  height: 320px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left: px;
+}
+
+
+.b5{
+	background-image: url(image/55.jpg);
+  height: 320px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left: 140px;
+}
+.b6{
+	background-image: url(image/66.jpg);
+  height: 320px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+   margin-left: 140px;
+
+}
+.lasthh{
+	color: #fff;
+	margin-top: 100px;
+	text-align: center;
+}
+
+.butn2{
+
+    margin-left: 65px;
+    margin-top: 14px;
+    background: rgb(235,85,10);
+background: linear-gradient(90deg, rgba(235,85,10,0.6727065826330532) 0%, rgba(31,79,44,0.2553396358543417) 0%, rgba(5,203,81,0.4290091036414566) 90%);
+   
+border: 0px;
+}
+
+
+.bdr{
+	
+	height: 450px;
+	margin-top: 50px;
+	margin-bottom: 0px;
+	background: rgb(55,17,4);
+background: linear-gradient(90deg, rgba(55,17,4,0.3393732492997199) 45%, rgba(96,3,13,0.26094187675070024) 100%);
+	padding: 0px;
+
+}
+.limg{
+	background-image: url(image/joy2.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 450px;
+    margin-top: 0px;
+    padding: 0px;
+}
+.limg2{
+	background-image: url(image/joy1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 450px;
+    margin-top: 0px;
+}
+
+.butn3{
+
+    
+    margin-top: 50px;
+    padding: 0px;
+   
+border: 0px;
+}
+.mh3{
+	margin-left: -110px;
+	margin-top: 96px;
+}
+
+
+.linthik1{
+	margin-left: -60px;
+	margin-top: 30px;
+
+}
+.linthik2{
+	margin-left: -45px;
+	margin-top: 30px;
+}
+.linthik3{
+	margin-left:-10px;
+	margin-top: 30px;
+}
+.linthik4{
+	margin-left:22px;
+	margin-top: 30px;
+}
+.ahh{
+
+    margin-left: 0px;
+    left: 43px;
+
+}
+.butn4{
+
+    
+    margin-top: 0px;
+    padding: 0px;
+}
+ .bacimg{
+ 	
+	background-image: url(image/jg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 210px;
+	width:400px;
+	margin-left: 70px;
+	margin-top: 9px;
+
+ 
+ }
+
+ .bacimg2{
+ 	
+	background-image: url(image/jg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 210px;
+	width:400px;
+	margin-left: 100px;
+	margin-top: 9px;
+
+ 
+ }
+
+ .colimag{
+
+    margin-left: 232px;
+    margin-top: 81px;
+
+ }
+ 
+
+ .colimag2{
+  
+    margin-left: 278px;
+   margin-top: 81px;
+ }
+
+ .kmn{
+
+    margin-left: 141px;
+    margin-top: 9px;
+    padding-top: 34px;
+
+ }
+
+.kml{
+	text-align: center;
+	font-size: 18px;
+    
+
+   }
+.pmmm{
+	font-size: 12px;
+	text-align: center;
+	padding-top: 7px;
+}
+.bbt{
+	text-align: right;
+	margin-left: 1064px;
+	margin-top: 40px;
+
+}
+
+.last111{
+	background-color:#4D545E;  
+	height: 350px;
+}
+
+.last222{
+	background-color: #343a40;  
+	height: 50px;
+	padding: 0px;
+	margin-top: 40px;
+}
+
+.lasth3{
+	margin-top: 25px;
+	color: #0bc16f;
+	font-family:Amadeust Inline; 
+	margin-left: 20px;
+}
+
+.plast{
+	color:  #fff;
+	font-size: 15px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.h111{
+	color: #fff;
+	margin-top: 30px;
+}
+.lls1{
+
+    margin-top: 16px;
+    margin-bottom: 10px;
+    width: 42px;
+
+}
+.kkla{
+
+   
+    width: 122px;
+    padding: 0px;
+    margin: 0px;
+    font-size: 13px;
+    color: #fff;
+    margin-top: 6px;
+     margin-left: 10px;
+
+}
+
+.hhh44{
+
+    left: 301px;
+
+}
+.kita{
+
+    left: 93px;
+
+}
+
+.g11{
+	color: #fff; 
+	text-align: center;
+	 margin-top: 10px;
+	 font-size: 13px;
+}

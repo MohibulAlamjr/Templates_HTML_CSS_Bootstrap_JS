@@ -1,0 +1,289 @@
+* {
+    margin: 0 auto;
+    padding: 0px;
+}
+
+.navbg {
+    background-color: #02918c;
+}
+
+.topbg {
+    height: 550px;
+    background-image: url(image/cover.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.intro {
+    text-align: center;
+    color: #fff;
+    top: 85px;
+}
+
+.myintro {
+    height: 420px;
+}
+
+.myintrobg {
+    background-image: url(image/bg111.png);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    bottom: 40px;
+    text-align: center;
+    color: #fff;
+}
+
+.mypicbg {
+    text-align: center;
+    top: 45px;
+}
+
+.mypic {
+    height: 252px;
+    width: 252px;
+}
+
+.aboutme {
+    text-align: center;
+    color: #02918c;
+    text-decoration: underline;
+    margin-top: 70px;
+    font-family: arial;
+}
+
+.myname {
+    margin-top: 110px;
+    font-size: 40px;
+    color: aqua;
+}
+
+.skill {
+    margin-top: 170px;
+    height: 250px;
+    overflow: auto;
+}
+
+.allskill {
+    text-align: center;
+    border-right: 2px solid #000;
+    height: 180px;
+}
+
+.ff {
+    font-size: 40px;
+    color: #02918c;
+    margin-top: 20px;
+}
+
+.srvcbg {
+    height: 600px;
+    background-image: url(image/mid.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: left;
+    overflow: hidden;
+}
+
+.serviceimg {
+    height: 40px;
+    width: 40px;
+}
+
+.services {
+    color: #02918c;
+    text-decoration: underline;
+}
+
+.amne {
+    text-decoration: none;
+    color: #000;
+    font-size: 25px;
+    display: block;
+}
+
+.amne:hover {
+    text-decoration: none;
+    color: #02918c;
+    font-size: 25px;
+    display: block;
+}
+
+.servicsimgborder {
+    height: 150px;
+    margin-top: 40px;
+    -webkit-box-shadow: 12px -11px 5px -9px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 12px -11px 5px -9px rgba(0, 0, 0, 0.75);
+    box-shadow: 12px -11px 5px -9px rgba(0, 0, 0, 0.75);
+    transform: rotate(5deg);
+    margin-left: 0px;
+    overflow: hidden;
+    -webkit-transform-origin: 50% 50%;
+    -moz-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    -o-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    transition: .5s;
+}
+
+.quote {
+    font-size: 18px;
+    color: darkgreen;
+    font-weight: 40;
+}
+
+.servicsimgborder:hover {
+    -webkit-box-shadow: 12px -11px 5px -9px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 12px -11px 5px -9px rgba(0, 0, 0, 0.75);
+    box-shadow: 12px -11px 5px -9px rgba(0, 0, 0, 0.75);
+    transform: rotate(5deg);
+    margin-left: 0px;
+    background-color: gray;
+    color: #fff;
+    transform: scale(1.1);
+}
+.mywork{
+    height: 500px;
+}
+.workdemo{
+    margin-top: 40px;
+}
+.workdiv{
+    height: 250px;
+   border: 1px solid #000;
+    border-top: 0px;
+    margin-bottom: 60px;
+    -webkit-box-shadow: 6px 3px 5px -2px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px 3px 5px -2px rgba(0,0,0,0.75);
+box-shadow: 6px 3px 5px -2px rgba(0,0,0,0.75);
+    margin-left: 10px;
+    
+    padding-left: 0px;
+    padding-right: 0px;
+    overflow: hidden;
+
+}
+.picdivbottom{
+    height: 50%;
+    background-color: #718472;
+    padding: 0px;
+   -webkit-box-shadow: 0px -3px 16px -2px rgba(83,88,97,1);
+-moz-box-shadow: 0px -3px 16px -2px rgba(83,88,97,1);
+box-shadow: 0px -3px 16px -2px rgba(83,88,97,1);
+    
+}
+.workimage1{
+    height: 50%;
+    background-image: url(image/w1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.workimage2{
+    height: 50%;
+    background-image: url(image/w4.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.workimage3{
+    height: 50%;
+    background-image: url(image/w6.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.workimage4{
+    height: 50%;
+    background-image: url(image/w2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.workimage5{
+    height: 50%;
+    background-image: url(image/w7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.workimage6{
+    height: 50%;
+    background-image: url(image/w3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.workimgheading{
+    padding-top: 20px;
+    color: #fff;
+    margin-bottom: 0px;
+    padding-left: 10px;
+}
+.workimgparagraph{
+    color: #fff;
+    padding-left: 10px;
+    margin-bottom: 3px;
+}
+.fff{
+    color:#2b61de;
+   
+}
+.sec{
+    margin-left: 100px;
+    overflow: hidden;
+}
+.lasttop{
+    height: 200px;
+   
+    margin-top: 400px; 
+    text-decoration: none;
+}
+.lastbottom{
+    height: 530px;
+    background-color: #2d2d3c;
+    text-align: center;
+}
+.frmd{
+    background-color: transparent;
+    border: 0px;
+border-bottom: 1px solid #fff;
+    text-align: center;
+    width: 500px;
+    height: 40px;
+    color: #fff;
+}
+.bottn{
+    margin-top: 40px;
+   height: 35px;
+    width: 110px;
+    margin-left: 20px;
+    background-color: #02918c;
+    border: 0px;
+}
+
+.ffff{
+    margin-top: 30px;
+    font-size: 30px;
+    color: azure;
+    text-align: left;
+    
+    margin-left: 20px;
+}
+.ffff:hover{
+    color:#02918c; 
+}
+.basic{
+   
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.maindiv1{
+    border-bottom: 2px solid #fff;
+     height: 150px;
+}

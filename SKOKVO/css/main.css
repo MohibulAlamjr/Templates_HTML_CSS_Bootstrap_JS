@@ -1,0 +1,240 @@
+*{ margin: 0;
+
+padding: 0;
+
+}
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Helvetica, sans-serif; 
+}
+
+
+
+
+.backgroundtop {
+    margin-right: 0;
+    margin-left: 0;
+    height:970px;
+    background-image: url(../img/top-background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container-fluid{
+    margin: 0;
+    padding: 0;
+}
+
+.navigationbar{
+    
+    height: 35px;;
+}
+.globalmeneg {
+    margin-top: 177px;
+    color:#fff;
+    
+    margin-left: 0px;}
+    
+.globalmeneg h1{
+    line-height: 80px;
+    font-size: 60px;
+    font-family:  Verdana, Helvetica, sans-serif;
+    
+}
+.globalmeneg p{
+font-size: 20px;
+font-family: Verdana, Helvetica, sans-serif; 
+color: #e8ebef;
+margin-left: 3px;
+margin-top: 10px;
+
+}
+
+
+
+.tag{
+    margin-top: 177px; 
+}
+.custombutton{
+    border-radius: 22px;
+    padding: 10px 35px;
+    font-size: 20px;
+    margin-top: 50px;
+    transition: 1s;
+}
+
+.custombutton:hover{
+    background-color: red;
+    
+}
+
+.ourservicestop{
+    text-align: center;
+
+
+}
+
+.ourservicestop h2{
+    font-size: 24px;
+    margin-bottom:30px; 
+}
+
+.ourservicestop p{
+    font-size: 16px;
+    color: #adadad;
+    margin-bottom:60px; 
+}
+.services{
+    text-align: center;
+    margin-top: 60px;
+}
+.services h3{
+    font-size: 16px;
+    
+}
+.services h3::after { 
+    content: " ";
+    background: none repeat scroll 0 0;
+    background-color: red;
+    bottom: -10px;
+    content: "";
+    display: block;
+    height: 3px;
+    position: relative;
+    width: 50px;
+    left: 100px;
+  }
+  .services p{
+   font-size: 14px;
+   color: #aeaeae;
+   margin-top: 20px;
+  }
+  .fixedBackground{
+      margin-top: 60px;
+      background-image: url(../img/fixed-background.jpg);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+      min-height: 403px;
+  }
+  .fixedBgText h2{
+      text-align: center;
+      color: #fff;
+      font-size: 34px;
+      margin-bottom: 45px;
+  }
+  .fixedBgText{
+      top:111px;
+  }
+  .custombutton1{
+    border-radius: 22px;
+    padding: 10px 35px;
+    font-size: 20px;
+    margin: auto;
+    display: block;
+    background-color: red;
+    transition: .5s;
+   
+}
+.custombutton1:hover{
+    background-color:rgb(61, 100, 3);
+    color:#fff;
+   
+    
+}
+.anima{
+   
+    border-radius: 20px;
+    margin: auto;
+    display: block;
+    width: 188px;
+    padding-top: 5px;
+    border-bottom-width: 0px;
+    padding-bottom: 2px;
+    
+}
+.anima:hover{
+    -webkit-animation: mymove 1s ;
+}
+@keyframes mymove {
+    20%   {border-bottom: 2px red solid;}
+    40%  {
+        border-bottom: 0px;
+        border-right: 2px green solid;}
+    60%  {
+        border-right:0px;
+        border-top:2px red solid;}
+    80% {
+        border-top:0px;
+        border-left: 2px green solid;}
+        100%{
+            border:2px #fff solid;
+        }
+  }
+
+  .treamHead{
+      text-align: center;
+  margin-bottom: 80px;
+
+  }
+  .treamHead h3{
+      font-size: 24px;
+  }
+  .treamHead p{
+      font-size: 14px;
+
+      color: #afafaf;
+      
+  }
+  .whatWeDo{
+      padding: 10px;
+  }
+  .whatWeDo h3{
+      font-size: 20px;
+      color: red;
+  }
+  .whatWeDo p{
+      font-size: 14px;
+      color: #343434;
+  }
+
+  .whatWeDo h3::after{
+    content: " ";
+    background: none repeat scroll 0 0;
+    background-color: red;
+    bottom: -3px;
+    content: "";
+    display: block;
+    height: 3px;
+    position: relative;
+    width: 50px;
+    left: 100x;
+  }
+  .Ourclint h3::after{
+    content: " ";
+    background: none repeat scroll 0 0;
+    background-color: red;
+    bottom: -3px;
+    content: "";
+    display: block;
+    height: 3px;
+    position: relative;
+    width: 50px;
+    left: 100x;
+  }
+  .Ourclint h3{
+    font-size: 20px;
+    color: red;
+    margin-bottom: 40px;
+  }
+ .Ourclint{
+      padding: 10px;
+      margin-left: 50px; 
+  }
+  .carousel-item img{
+      height:200px;
+      width: 32%; 
+  }
